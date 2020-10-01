@@ -1,0 +1,169 @@
+description: "A new Flutter application."
+name: "flutterapp"
+version: "1.0.0+1"
+dependencies: 
+  cupertino_icons: "^0.1.2"
+  path_drawing: "^0.4.1"
+  flutter: 
+    sdk: "flutter"
+dev_dependencies: 
+  flutter_test: 
+    sdk: "flutter"
+environment: 
+  sdk: ">=2.1.0 <3.0.0"
+flutter: 
+  assets: 
+    - "assets/images/"
+  fonts: 
+    - 
+      family: "Cinzel"
+      fonts: 
+        - 
+          asset: "fonts/Cinzel-regular.ttf"
+          style: "normal"
+          weight: 400
+    - 
+      family: "Open Sans"
+      fonts: 
+        - 
+          asset: "fonts/OpenSans-300.ttf"
+          style: "normal"
+          weight: 300
+        - 
+          asset: "fonts/OpenSans-regular.ttf"
+          style: "normal"
+          weight: 400
+        - 
+          asset: "fonts/OpenSans-700.ttf"
+          style: "normal"
+          weight: 700
+        - 
+          asset: "fonts/OpenSans-600.ttf"
+          style: "normal"
+          weight: 600
+        - 
+          asset: "fonts/OpenSans-800.ttf"
+          style: "normal"
+          weight: 800
+    - 
+      family: "Inter"
+      fonts: 
+        - 
+          asset: "fonts/Inter-regular.ttf"
+          style: "normal"
+          weight: 400
+        - 
+          asset: "fonts/Inter-700.ttf"
+          style: "normal"
+          weight: 700
+        - 
+          asset: "fonts/Inter-500.ttf"
+          style: "normal"
+          weight: 500
+    - 
+      family: "IBM Plex Sans"
+      fonts: 
+        - 
+          asset: "fonts/IBMPlexSans-700.ttf"
+          style: "normal"
+          weight: 700
+    - 
+      family: "Rubik"
+      fonts: 
+        - 
+          asset: "fonts/Rubik-300.ttf"
+          style: "normal"
+          weight: 300
+    - 
+      family: "Roboto"
+      fonts: 
+        - 
+          asset: "fonts/Roboto-regular.ttf"
+          style: "normal"
+          weight: 400
+        - 
+          asset: "fonts/Roboto-500.ttf"
+          style: "normal"
+          weight: 500
+        - 
+          asset: "fonts/Roboto-700.ttf"
+          style: "normal"
+          weight: 700
+        - 
+          asset: "fonts/Roboto-300.ttf"
+          style: "normal"
+          weight: 300
+        - 
+          asset: "fonts/Roboto-900.ttf"
+          style: "normal"
+          weight: 900
+    - 
+      family: "Teko"
+      fonts: 
+        - 
+          asset: "fonts/Teko-regular.ttf"
+          style: "normal"
+          weight: 400
+        - 
+          asset: "fonts/Teko-300.ttf"
+          style: "normal"
+          weight: 300
+    - 
+      family: "Montserrat"
+      fonts: 
+        - 
+          asset: "fonts/Montserrat-regular.ttf"
+          style: "normal"
+          weight: 400
+    - 
+      family: "Sail"
+      fonts: 
+        - 
+          asset: "fonts/Sail-regular.ttf"
+          style: "normal"
+          weight: 400
+    - 
+      family: "Comfortaa"
+      fonts: 
+        - 
+          asset: "fonts/Comfortaa-regular.ttf"
+          style: "normal"
+          weight: 400
+    - 
+      family: "Lato"
+      fonts: 
+        - 
+          asset: "fonts/Lato-900.ttf"
+          style: "normal"
+          weight: 900
+        - 
+          asset: "fonts/Lato-700.ttf"
+          style: "normal"
+          weight: 700
+    - 
+      family: "Cuprum"
+      fonts: 
+        - 
+          asset: "fonts/Cuprum-700.ttf"
+          style: "normal"
+          weight: 700
+        - 
+          asset: "fonts/Cuprum-regular.ttf"
+          style: "normal"
+          weight: 400
+    - 
+      family: "Nunito"
+      fonts: 
+        - 
+          asset: "fonts/Nunito-600.ttf"
+          style: "normal"
+          weight: 600
+        - 
+          asset: "fonts/Nunito-regular.ttf"
+          style: "normal"
+          weight: 400
+        - 
+          asset: "fonts/Nunito-700.ttf"
+          style: "normal"
+          weight: 700
+  uses-material-design: true
